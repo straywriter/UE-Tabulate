@@ -26,3 +26,6 @@
 
 change Tabulate.uplugin `TabulateTest` module `LoadingPhase` to `Default`， it will load unittest.
 
+## Chinese support
+
+need use 1:2 font, such as [lxgw/LxgwWenKai: An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 (github.com)](https://github.com/lxgw/LxgwWenKai)
