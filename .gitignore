@@ -1,0 +1,8 @@
+Binaries/
+Intermediate/
+.vscode/
+**DS_Store
+**ccls-cache/
+**swp
+**~
+**Old*/

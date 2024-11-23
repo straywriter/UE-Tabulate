@@ -1,0 +1,6 @@
+https://github.com/p-ranav/tabulate/releases/tag/v1.5
+
+Change：
+- markdown_exporter.hpp public some method
+- add RowStream
+- Chinese mono font support
